@@ -1,0 +1,2 @@
+Đây là file test.txt
+Thuộc brand: week1
