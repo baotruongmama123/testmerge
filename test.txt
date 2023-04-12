@@ -1,2 +1,8 @@
 Đây là file test.txt
+<<<<<<< Updated upstream
 Thuộc brand: week1 mà thôi
+=======
+Thuộc brand: week1 và main
+Thuộc brand: week1 mà thôi
+them bulol qua
+>>>>>>> Stashed changes
