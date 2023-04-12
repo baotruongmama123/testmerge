@@ -1,2 +1,2 @@
 Đây là file test.txt
-Thuộc brand: week1
+Thuộc brand: week1 mà thôi
